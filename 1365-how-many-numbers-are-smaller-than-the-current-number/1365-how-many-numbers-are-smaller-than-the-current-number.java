@@ -1,3 +1,9 @@
+//This below code is written by me. but it is not optimized. 
+
+//In order to improve the time complexity, we can sort the array and get the answer for each array element.
+
+
+
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) 
     {
