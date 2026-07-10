@@ -4,18 +4,26 @@ class Solution {
 
         List<Boolean> result=new ArrayList<>();
 
+        int max=0;
+        int sum;
+        boolean r;
+
         for (int k=0;k<candies.length;k++)
         {
-            boolean r=true;
-            int sum = candies[k]+extraCandies;
-
-            for (int i=0;i<candies.length;i++)
+            if (max<candies[k])
             {
-                if (sum<candies[i])
-                {
-                    r=false;
-                    break;
-                }
+                max=candies[k];
+            }
+        }
+
+        for (int i=0;i<candies.length;i++)
+        {
+            r=true;
+            sum=candies[i]+ extraCandies;
+
+            if (sum<max)
+            {
+                r=false;
             }
 
             result.add(r);
