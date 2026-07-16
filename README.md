@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/prankyio/DSA_practice/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/prankyio/DSA_practice/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/prankyio/DSA_practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/prankyio/DSA_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prankyio/DSA_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/prankyio/DSA_practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prankyio/DSA_practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/prankyio/DSA_practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/prankyio/DSA_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/prankyio/DSA_practice/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
