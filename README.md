@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prankyio/DSA_practice/tree/master/0054-spiral-matrix) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/prankyio/DSA_practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/prankyio/DSA_practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/prankyio/DSA_practice/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/prankyio/DSA_practice/tree/master/0989-add-to-array-form-of-integer) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/prankyio/DSA_practice/tree/master/0832-flipping-an-image) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/prankyio/DSA_practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
