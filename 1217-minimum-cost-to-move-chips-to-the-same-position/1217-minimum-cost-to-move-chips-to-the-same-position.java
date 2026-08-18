@@ -1,7 +1,7 @@
 class Solution {
     public int minCostToMoveChips(int[] position) {
 
-        Arrays.sort(position);
+        
 
         int len = position.length;
         int posmax = position[0];
