@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/prankyio/DSA_practice/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/prankyio/DSA_practice/tree/master/0069-sqrtx) |
 | [0989-add-to-array-form-of-integer](https://github.com/prankyio/DSA_practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/prankyio/DSA_practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/prankyio/DSA_practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -107,9 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prankyio/DSA_practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/prankyio/DSA_practice/tree/master/0069-sqrtx) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prankyio/DSA_practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/prankyio/DSA_practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/prankyio/DSA_practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
