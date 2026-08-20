@@ -1,91 +1,24 @@
 class Solution {
     public int minCostToMoveChips(int[] position) {
 
-        
+        int even=0;
+        int odd=0;
 
-        int len = position.length;
-        int posmax = position[0];
-        int posmaxcoins=0;
-
-        if (posmax % 2 == 0) //if posmax is even then count coins at odd places
+        for(int i=0;i<position.length;i++)
         {
-            for (int j = 0; j < len; j++) {
-
-                if (position[j] % 2 == 1) {
-
-                    posmaxcoins++;
-
-                }
-            }
-        }
-
-        else //if posmax is odd then count coins at even places
-        {
-            for (int j = 0; j < len; j++) {
-
-                if (position[j] % 2 == 0) {
-
-                    posmaxcoins++;
-
-                }
-            }
-
-        }
-
-        int newposmaxcoins = 0;
-
-        int newposmax;
-
-        for (int i = 1; i < len; i++) 
-        {
-            if (position[i] != position[i - 1]) 
+            if (position[i]%2==0)
             {
-
-                //Whenever a new unique element is found , we checl its relativecoins(cost)
-                newposmax=position[i];
-
-                if (newposmax % 2 == 0) //if newposmax is even then count coins at odd places
-                {
-                    for (int j = 0; j < len; j++) {
-
-                        if (position[j] % 2 == 1) {
-
-                            newposmaxcoins++;
-
-                        }
-                    }
-                }
-
-                else //if newposmax is odd then count coins at even places
-                {
-                    for (int j = 0; j < len; j++) {
-
-                        if (position[j] % 2 == 0) {
-
-                            newposmaxcoins++;
-
-                        }
-                    }
-
-                }
-
-                if (newposmaxcoins < posmaxcoins) 
-                {
-                    posmax = newposmax;
-                    posmaxcoins = newposmaxcoins;
-                   
-                }
-                newposmaxcoins=0;
-
+                even++;
+            }
+            else
+            {
+                odd++;
             }
 
-           
 
+        }
+
+        return even<odd?even:odd;
         
-
     }
-
-    return posmaxcoins;
-}
-
 }
