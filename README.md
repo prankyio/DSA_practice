@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prankyio/DSA_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prankyio/DSA_practice/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/prankyio/DSA_practice/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/prankyio/DSA_practice/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/prankyio/DSA_practice/tree/master/0066-plus-one) |
 | [0566-reshape-the-matrix](https://github.com/prankyio/DSA_practice/tree/master/0566-reshape-the-matrix) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/prankyio/DSA_practice/tree/master/0035-search-insert-position) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prankyio/DSA_practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Greedy
 |  |
