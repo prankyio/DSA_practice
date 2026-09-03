@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/prankyio/DSA_practice/tree/master/0566-reshape-the-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prankyio/DSA_practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/prankyio/DSA_practice/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/prankyio/DSA_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/prankyio/DSA_practice/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/prankyio/DSA_practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1095-find-in-mountain-array](https://github.com/prankyio/DSA_practice/tree/master/1095-find-in-mountain-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/prankyio/DSA_practice/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prankyio/DSA_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prankyio/DSA_practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/prankyio/DSA_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/prankyio/DSA_practice/tree/master/1095-find-in-mountain-array) |
 ## Greedy
 |  |
@@ -133,5 +135,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ternary Search
 |  |
 | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/prankyio/DSA_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/prankyio/DSA_practice/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
