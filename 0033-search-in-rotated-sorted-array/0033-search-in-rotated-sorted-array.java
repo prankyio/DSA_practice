@@ -2,84 +2,96 @@ class Solution {
     public int search(int[] nums, int target) 
     {
         int start=0;
-        int l=nums.length;
-        int end =l-1;
+        int end =nums.length-1;
+        int mid;
         int ans=-1;
+        int middle=0;
 
-        int rindex=0;
-
-        for(int i=1;i<=end;i++)
+        if(nums[start]>nums[end])
         {
-            if(nums[i]<nums[i-1])
+
+            while(start<=end)
             {
-                rindex=i;
+                mid = start+(end-start)/2;
+                middle=nums[mid];
+
+
+                if(middle==target)
+                {
+                    ans=mid;
+                    break;
+                }
+
+
+                if(middle>=nums[start])
+                {
+                   if(target>middle || (target<middle && target<nums[start]))
+                   {
+                    start=mid+1;
+                   }
+                   else if (target<middle && target>=nums[start] )
+                   {
+                    end=mid-1;
+                   }
+                   
+                }
+
+                else if(middle<nums[start])
+                { 
+                   if(target<middle || (target>middle && target>nums[end]))
+                   {
+                    end=mid-1;
+                   }
+                   else if (target>middle && target<=nums[end])
+                   {
+                    start=mid+1;
+                   }
+                    
+                }
+
+                else
+                {
+                    end=mid-1;
+                }
+
+
             }
         }
 
 
-        if (target>nums[l-1])
-        {
-            start=0;
-            end=rindex -1;
-
-        while(start<=end)
-        {
-            int mid = (start+end)/2;
-
-            if(nums[mid]>target)
-            {
-                end=mid-1;
-            }
-
-            else if(nums[mid]<target)
-            {
-                start=mid+1;
-            }
-
-            else
-            {
-                ans=mid;
-                break;
-            }
-
-
-
-        }
-
-        }
 
         else
         {
-            start=rindex;
-            end= l-1;
-
-        while(start<=end)
-        {
-            int mid = (start+end)/2;
-
-            if(nums[mid]>target)
+            while(start<=end)
             {
-                end=mid-1;
+                mid = start+(end-start)/2;
+                middle=nums[mid];
+
+                if(target<middle)
+                {
+                    end=mid-1;
+                }
+
+                else if(target>middle)
+                {
+                    start=mid+1;
+                }
+                else
+                {
+                    ans=mid;
+                    break;
+                }
+                
             }
-
-            else if(nums[mid]<target)
-            {
-                start=mid+1;
-            }
-
-            else
-            {
-                ans=mid;
-                break;
-            }
-
-
-
         }
+         
+            return ans;
 
-        }
+        
 
-        return ans;
+        
+
+        
         
     }
 }
