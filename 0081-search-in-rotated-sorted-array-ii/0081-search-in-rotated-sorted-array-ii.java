@@ -2,70 +2,57 @@ class Solution {
     public boolean search(int[] nums, int target) 
     {
         int start=0;
-        int end =nums.length-1;
+        int end=nums.length-1;
         int mid;
-        boolean ans=false;
-        int middle=0;
+        int middle;
 
-            while(start<=end)
+        while(start<=end)
+        {
+            mid=start + (end-start)/2;
+            middle=nums[mid];
+
+            if (middle==target)
             {
-                mid = start+(end-start)/2;
-                middle=nums[mid];
+                return true;
+            }
 
-
-                if(middle==target)
-                {
-                    ans=true;
-                    break;
-                }
-
-                if (nums[start] == nums[mid] && nums[mid] == nums[end]) {
+            
+            if(middle==nums[start] && middle==nums[end] && start!=end)
+            {
                 start++;
                 end--;
-                }
+                continue;
+            }
 
-                else if(nums[start]<=middle)
+            if (middle>=nums[start])
+            {
+                if(target>=nums[start] && target<middle)
                 {
-                    if(target>=nums[start] && target<middle)
-                    {
-                        end=mid-1;
-                    }
-                    else
-                    {
-                        start=mid+1;
-                    }
+                    end=mid-1;
                 }
 
                 else
                 {
-                    if(target<=nums[end] && target>middle)
-                    {
-                        start=mid+1;
-                    }
-                    else
-                    {
-                        end=mid-1;
-                    }
+                    start=mid+1;
+                }
+            }
+
+            else if(middle<nums[start])
+            {
+                if(target>middle && target<=nums[end])
+                {
+                    start=mid+1;
                 }
 
-
-                
-
+                else
+                {
+                    end=mid-1;
+                }
             }
 
 
+        } 
 
-        
-         
-            return ans;
-
-        
-
-        
-
-        
-        
+        return false;       
     }
 }
-
-        
