@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/prankyio/DSA_practice/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/prankyio/DSA_practice/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prankyio/DSA_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/prankyio/DSA_practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prankyio/DSA_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/prankyio/DSA_practice/tree/master/0566-reshape-the-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prankyio/DSA_practice/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -152,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prankyio/DSA_practice/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/prankyio/DSA_practice/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
