@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prankyio/DSA_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/prankyio/DSA_practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prankyio/DSA_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/prankyio/DSA_practice/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/prankyio/DSA_practice/tree/master/0566-reshape-the-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prankyio/DSA_practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/prankyio/DSA_practice/tree/master/0832-flipping-an-image) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/prankyio/DSA_practice/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prankyio/DSA_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/prankyio/DSA_practice/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prankyio/DSA_practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/prankyio/DSA_practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/prankyio/DSA_practice/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/prankyio/DSA_practice/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/prankyio/DSA_practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/prankyio/DSA_practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/prankyio/DSA_practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/prankyio/DSA_practice/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prankyio/DSA_practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/prankyio/DSA_practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Counting Sort
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/prankyio/DSA_practice/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/prankyio/DSA_practice/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
@@ -125,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/prankyio/DSA_practice/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prankyio/DSA_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prankyio/DSA_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/prankyio/DSA_practice/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prankyio/DSA_practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prankyio/DSA_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/prankyio/DSA_practice/tree/master/1095-find-in-mountain-array) |
