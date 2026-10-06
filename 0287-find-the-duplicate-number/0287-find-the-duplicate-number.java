@@ -6,7 +6,17 @@ class Solution {
         I solved it using the sum of natural numbers approach, by subtraction of the expected sum from actual sum.*/
 
 
-        //MY 2nd Method👇
+        /*MY 2nd Method👇
+        
+        I solved it by sorting using cyclic sort and returning nums[lastindex] cuz at the end the duplicate would always end up at the last--->     
+        
+        BECAUSE, 
+        
+        the total length (no. of nums in array) is n+1 and 1 to n numbers are present so the xtra 1 is nothing but the duplicate and after sorting 1 to n will come at its desired place and the extra "+1" index will have nothing but the duplicate. */
+
+        //MY 3rd Method👇
+        // Using cyclic sort - same method as Kunal's , just the inner if-else conditions are flipped.
+
         int i=0;
         int correctindex;
         int temp=0;
@@ -37,7 +47,8 @@ class Solution {
             }
         }
 
-        return nums[nums.length-1];
+        return -1;
+
         
     }
 }
