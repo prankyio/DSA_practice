@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/prankyio/DSA_practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prankyio/DSA_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/prankyio/DSA_practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/prankyio/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0566-reshape-the-matrix](https://github.com/prankyio/DSA_practice/tree/master/0566-reshape-the-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prankyio/DSA_practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/prankyio/DSA_practice/tree/master/0832-flipping-an-image) |
@@ -115,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prankyio/DSA_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prankyio/DSA_practice/tree/master/0027-remove-element) |
+| [0287-find-the-duplicate-number](https://github.com/prankyio/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/prankyio/DSA_practice/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/prankyio/DSA_practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/prankyio/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/prankyio/DSA_practice/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prankyio/DSA_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prankyio/DSA_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/prankyio/DSA_practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/prankyio/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prankyio/DSA_practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prankyio/DSA_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/prankyio/DSA_practice/tree/master/1095-find-in-mountain-array) |
@@ -160,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/prankyio/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/prankyio/DSA_practice/tree/master/0152-maximum-product-subarray) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/prankyio/DSA_practice/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/prankyio/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
